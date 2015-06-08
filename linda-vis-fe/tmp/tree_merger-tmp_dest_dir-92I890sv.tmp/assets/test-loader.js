@@ -1,0 +1,1 @@
+/home/linda/Visualization/linda-vis-fe/bower_components/ember-cli-test-loader/test-loader.js

@@ -1,0 +1,25 @@
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.2
+
+A new version of ember-cli is available (0.2.7). To install it, type ember update.
+Could not find watchman, falling back to NodeWatcher for file system events.
+Visit http://www.ember-cli.com/#watchman for more info.
+Livereload server on port 35729
+Serving on http://localhost:4200/
+
+Build successful - 16490ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 6479ms              
+Babel                                         | 2708ms              
+JSHint app- QUnit                             | 2154ms              
+SourcemapConcat                               | 888ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 6479ms              
+Babel (2)                                     | 3022ms (1511 ms)    
+JSHint app- QUnit (1)                         | 2154ms              
+SourcemapConcat (3)                           | 1432ms (477 ms)     
+
